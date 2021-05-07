@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
     <?php include "includes/scripts.php";?>
 	<title>Sistema Ventas Sierra Maestra</title>
-	<link rel="stylesheet" type="text/css" href="style_sistema.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <?php include "includes/header.php";?>
